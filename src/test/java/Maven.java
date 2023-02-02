@@ -29,6 +29,7 @@ public static void main(String[] args) throws IOException{
     FileOutputStream ff=new FileOutputStream(loc);
     w.write(ff);
     System.out.println("done");
+    System.out.println("modify 222");
     System.out.println(c);
 		}
 	
