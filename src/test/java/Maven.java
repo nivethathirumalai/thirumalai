@@ -29,11 +29,11 @@ public static void main(String[] args) throws IOException{
     FileOutputStream ff=new FileOutputStream(loc);
     w.write(ff);
     System.out.println("done");
-<<<<<<< HEAD
-    System.out.println("modify 222");
-=======
     System.out.println("mem1 modificate");
->>>>>>> 4367ed1e71ceeefc735da883d82eeaef782ac2f0
+    System.out.println("modify 222");
+    System.out.println("krishi modify");
+   
+
     System.out.println(c);
 		}
 	
