@@ -29,6 +29,7 @@ public static void main(String[] args) throws IOException{
     FileOutputStream ff=new FileOutputStream(loc);
     w.write(ff);
     System.out.println("done");
+    System.out.println("mem1 modificate");
     System.out.println(c);
 		}
 	
